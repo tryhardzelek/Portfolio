@@ -27,7 +27,7 @@ i lepiej zrozumieć programowanie webowe.
 
 ### 🌐 Zelek.cc
 <p align="center">
-  <img src="images/logo.png" width="300" />
+  <img src="logo.png" width="300" />
 </p>
 
 Projekt strony związanej z planowanym serwerem Minecraft.  
@@ -69,3 +69,4 @@ Jeśli chcesz się skontaktować – napisz na maila lub Discorda 🙂
 ---
 
 📅 **Ostatnia aktualizacja:** 12.01.2026
+
