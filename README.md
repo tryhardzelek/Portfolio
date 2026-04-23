@@ -3,7 +3,7 @@
 🎯 Frontend Developer  
 📍 Polska  
 📧 Email: mdoctor131@gmail.com  
-🌐 Discord: koneserzelkowww  
+🌐 Discord: strefazagrozenia
 
 ---
 
